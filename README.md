@@ -1,13 +1,19 @@
-# bento
+<h1 align="center">Olá! Eu sou <a href="https://bentog-portfolio.vercel.app/" target="_blank">Bento Guilherme<a/> 👋😸</h1>
+
+## **🙂 Sobre mim:**
+
+```yaml
+  nome: bento
+  curso: ciência da computação (5°p)
+  os: windows e arch linux
+
+  - atualmente estudando react native e django
+  - interessado em full stack
+```
 
 ---
 
-### **🙂 Sobre mim**
-
-
----
-
-## **🛠 Ferramentas:**
+## **🛠️ Ferramentas:**
 
 <div align="flex">
 <br>
@@ -38,10 +44,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bnnto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bnnto&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=radical" height="180" />
-</div> 
+## **🤓 Estatisticas:**
+
+<div align="flex">
+  <img src="./profile/stats.svg" height="180" style="margin-right: 20px;"/>
+  <img src="./profile/langs.svg" height="180"/>
+</div>
 
 ---
 
