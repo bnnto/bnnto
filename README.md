@@ -45,6 +45,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=bnnto&rank_icon=github&show_icons=true&include_all_commits=true&theme=date_night" height="180" style="margin-right: 20px;" alt="Estatísticas do GitHub"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bnnto&layout=compact&langs_count=8&theme=date_night" height="180" alt="Linguagens mais usadas"/>
 </div>
 
